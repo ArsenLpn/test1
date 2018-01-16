@@ -102,5 +102,6 @@ namespace First_project
             //TODO: Save application state and stop any background activity
             deferral.Complete();
         }
+        //I MADE A CHANGE
     }
 }
